@@ -12,7 +12,7 @@ be of help to the students taking that same course at the Universty.
 
 Using g++, compile it like so:
 
-```batch
+```bat
 g++ -c  -std=c++11 -static-libstdc++ tTask.cpp
 g++ -c  -std=c++11 -static-libstdc++ main.cpp
 g++ -o CriticalPathFinder tTask.o main.o
@@ -21,7 +21,7 @@ g++ -o CriticalPathFinder tTask.o main.o
 In Windows, just run the make.bat. It will output the executable to the test_files folder, where a test file
 awaits.
 
-## Running It
+### Running It
 
 In the test_files folder, just run the executable.
 
