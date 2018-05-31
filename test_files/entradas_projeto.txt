@@ -1,0 +1,15 @@
+
+Entradas - Projeto Aleatorio
+
+Entrada.1 - Tarefa 1 (1d)
+Entrada.2 - Tarefa 2 (2d)(D1)
+Entrada.3 - Tarefa 3 (3d)(D2)
+Entrada.4 - Tarefa 4 (4d)(D2)
+Entrada.5 - Tarefa 5 (5d)(D2)
+Entrada.6 - Tarefa 6 (6h)(D4)
+Entrada.7 - Tarefa 7 (7h)(D3,5,6)
+Entrada.8 - Tarefa 8 (9h)(D7)
+Entrada.9 - Tarefa 9 (9h)(D7)
+Entrada.10 - Tarefa 10 (10h)(D7)
+Entrada.11 - Tarefa 11 (11h)(D8,9,10)
+
