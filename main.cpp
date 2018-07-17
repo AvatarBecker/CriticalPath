@@ -127,7 +127,7 @@ int main()
 
     // Find longest path:
     tPath* longest_path;
-    longest_path = *max_element(tPath::path_list.begin(), tPath::path_list.end(), ShorterThen);
+    longest_path = *max_element(tPath::path_list.begin(), tPath::path_list.end(), ShorterThan);
 
     for(int i=0; i < tPath::path_list.size(); ++i)
     {

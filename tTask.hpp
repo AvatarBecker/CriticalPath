@@ -48,7 +48,7 @@ class tPath
 };
 
 int         FindPathToStart(tTask* curr_task, tPath* curr_path);
-inline bool ShorterThen(tPath* lhs, tPath* rhs)
+inline bool ShorterThan(tPath* lhs, tPath* rhs)
             {return lhs->total_time < rhs->total_time; }
 
 extern tTask cStart;

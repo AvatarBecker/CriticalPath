@@ -1,11 +1,14 @@
 ## Critical Path Finder (Project Management)
 
 This piece of software was written as part of the requirements of a project management course at UFPR 
-(Federal University of Parana). It takes an input file with a fixed name, containing the description of
-the tasks and how they connect (example in the folder test_files), processes it, and outputs a list of 
-the possible paths, together with the identified critical path(s).
+(Federal University of Parana).
 
-Right now, it is a mish-mash of portuguese and english, but I think I will keep it that way since it will 
+It takes an input file with a fixed name in the same folder as the executable, containing the description of
+the tasks and how they connect describe in a specific syntax (an example file is in the folder test_files).
+The program processes the file, and outputs a list of all the possible paths, together with the identified 
+critical path(s).
+
+Right now, it is a mish-mash of portuguese and english, but I think I will keep it that way since it can 
 be of help to the students taking that same course at the Universty.
 
 ### Compiling
